@@ -107,6 +107,9 @@ layout: statement
     * Reducing the law to this sort of ritual metaphor can cause us to read less carefully!
     * If we're content with reading the law in this metaphorical way, our understanding of the law and its impact on the life of Israel will be deficient.
 * These two things can work together to convince us that the law isn't really that important (if it's just a metaphor pointing to Jesus, let's just focus on Jesus) or that it's so complicated that we can't understand it.
+    * In my view, much of our engagement with biblical law is marked by an anxiety to protect the _sola gratia_ and _sola fide_ of salvation and avoid any hint of Pelagianism or so-called works-righteousness in our theology.
+        * If we treat these questions as settled and proceed from that doctrinal foundation, we may feel more free to engage with the law _qua_ law.
+        * Note: this is not to say that we should blindly accept those doctrinal points or that we shouldn't allow further reflection on biblical law to help us revisit and refine those doctrinal perspectives.
 -->
 
 ---
@@ -123,39 +126,6 @@ backgroundSize: contain
 work: Moses Smashing the Tablets of the Law (in situ)
 metadata: "Rembrandt, 1659"
 ---
-
----
-layout: quote
----
-
-Jer 31:31–34: “The days are coming,” declares the Lord, “when I will make a new covenant with the people of Israel and with the people of Judah.
-It will not be like the covenant I made with their ancestors when I took them by the hand to lead them out of Egypt... This is the covenant I will make with the people of Israel after that time,” declares the Lord.
-“***I will put my law in their minds and write it on their hearts.***
-I will be their God, and they will be my people.
-***No longer will they teach their neighbor***, or say to one another, ‘Know the Lord,’ because they will all know me, from the least of them to the greatest,” declares the Lord.
-“For I will forgive their wickedness and will remember their sins no more.”
-
-Jer 33:14–16: “‘The days are coming,’ declares the Lord, ‘when I will fulfill the good promise I made to the people of Israel and Judah. In those days and at that time I will make a righteous Branch sprout from David’s line; he will do what is just and right in the land. In those days Judah will be saved and Jerusalem will live in safety. This is the name by which it will be called: The Lord Our Righteous Savior.’”
-
----
-layout: statement
----
-
-# Ezekiel 37
-
----
-layout: gallery-frame
-image: https://upload.wikimedia.org/wikipedia/commons/7/74/The_Vision_of_The_Valley_of_The_Dry_Bones.jpg
-backgroundSize: contain
-work: The Vision of The Valley of The Dry Bones
-metadata: "Gustave Doré, 1866"
----
-
----
-layout: statement
----
-
-# Ezekiel 37: Israel is in need of *resurrection*.
 
 ---
 layout: qr-code
