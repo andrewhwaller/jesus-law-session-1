@@ -70,7 +70,7 @@ layout: quote
 so in the business of his justification he must set aside all works of the law and depend wholly on the righteousness and grace of the great Redeemer.
 While in the business of sanctification the law as a rule is to be connected with the gospel, in that of justification the law as a covenant is always to be separated from it” (_Treatise on the Law and the Gospel_, 140).
 
-# Ephesians 2:5–9
+# Ephesians 2:5–9 (NRSV)
 “But God, who is rich in mercy, out of the great love with which he loved us even when we were dead through our trespasses, made us alive together with Christ....
 For by grace you have been saved through faith, and this is not your own doing; it is the gift of God — not the result of works, so that no one may boast.
 For we are what he has made us, created in Christ Jesus for good works, which God prepared beforehand to be our way of life.”
