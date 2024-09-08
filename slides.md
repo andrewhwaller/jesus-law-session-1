@@ -13,7 +13,7 @@ presenter: true
 drawings:
   persist: false
 transition: slide-left
-title: Jesus and the Law of Israel - Subtitle
+title: Jesus and the Law of Israel - Session 1
 mdc: true
 download: true
 export:
@@ -29,7 +29,7 @@ layout: cover
 
 # Jesus and the Law of Israel
 
-## Law! What is it good for?
+## Session 1: Not to Abolish, but to Fulfill
 
 <!-- 
 Background image is a portion of Leviticus from the [Leningrad Codex](https://www.sefaria.org/Leviticus.1.1?lang=bi&with=manuscripts&lang2=en).
@@ -126,6 +126,48 @@ backgroundSize: contain
 work: Moses Smashing the Tablets of the Law (in situ)
 metadata: "Rembrandt, 1659"
 ---
+
+---
+layout: quote
+---
+
+# Matthew 5:17–20 (NRSV)
+
+“Do not think that I have come to abolish the law or the prophets; I have come not to abolish but to fulfill.
+For truly I tell you, until heaven and earth pass away, not one letter, not one stroke of a letter, will pass from the law until all is accomplished. 
+Therefore, whoever breaks one of the least of these commandments, and teaches others to do the same, will be called least in the kingdom of heaven;
+but whoever does them and teaches them will be called great in the kingdom of heaven.
+For I tell you, unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven.”
+
+<!-- 
+* There are a few clues in this set of verses that suggest we should rethink our understanding of Jesus and the law.
+* First, and perhaps most obviously, Jesus doesn't abolish the law.
+    * Additionally, "fulfilling" the law isn't an atomistic checking off of boxes.
+    * Rather, Jesus came to embody and expand both the restoration of Israel that the prophets spoke of and the obedience that the law demands.
+        * The law is part of Christ's restorative work, i.e., the accomplishment of the eschatological "all."
+* Second, Jesus tells us not to relax the law.
+    * We can talk about how the law relates to us post-Pentecost, but this doesn't sound like antinomianism.
+    * Jesus doesn't speak in terms of "Law bad, grace good."
+* Third, the Pharisees are called righteous.
+    * We will talk more about this!
+    * But I don't think Jesus is being sarcastic here.
+    * While Jesus has differences with other early Jewish sects about what law-keeping means and looks like, he doesn't completely condemn or write off the Pharisees as a whole.
+-->
+
+---
+layout: statement
+---
+
+# When Jesus said, “I have come not to abolish but to fulfill,” what did he mean?
+
+
+<!--
+* This is the question that we'll be primarily trying to answer over the next few weeks!
+* Our answer to this question makes a real difference for...
+    * our reading of the Gospels,
+    * our confession of sin, 
+    * and our understanding of the life of discipleship.
+-->
 
 ---
 layout: qr-code
